@@ -1,2 +1,2 @@
-# Projrcts
-Project in AI and ML
+# Projects
+Projects in AI and ML
